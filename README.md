@@ -27,8 +27,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-### Developed by:JANARTHANAN K
-### Register No.:212223040072
+### Developed by:HAREVASU S
+### Register No.:212223230069
 
 ~~~
 import pandas as pd
@@ -182,5 +182,5 @@ sns.pairplot(df)
 
 
 
-# RESULT
-        We have performed Exploratory Data Analysis on the given data set successfully.
+# RESULT:
+We have performed Exploratory Data Analysis on the given data set successfully.
