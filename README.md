@@ -1,7 +1,7 @@
 # EXNO2DS
 # AIM:
 
-      To perform Exploratory Data Analysis on the given data set.
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
 
